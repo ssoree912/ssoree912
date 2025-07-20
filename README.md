@@ -1,4 +1,8 @@
-## Hi there 👋 I'm Solhee Hwang 
+## Hi there 🎅 I'm Solhee Hwang 
+<p align="center">
+  <img src="https://www.icegif.com/wp-content/uploads/2023/11/icegif-506.gif" alt="설명" width="100%"/>
+</p>
+
 
 ### 🧑‍💻 Experience
 
@@ -11,7 +15,7 @@
 | MLPR                                | 2025.06 ~          | 국민대 학부 연구생                            |
 
 
-### 🛠️ Projects
+### 🗂️ Projects
 
 | 기간                | 내용                                                                                                  | 담당                |
 | ----------------- | --------------------------------------------------------------------------------------------------- | ----------------- |
@@ -44,25 +48,25 @@
 | CoShow 2024   | 2024.06 | 모바일 UI 혁신 프로젝트 부스 운영              |
 | CES 2025 (미국) | 2025.01 | 모바일 UI 혁신 프로젝트 부스 운영 |
 
-## 🧰 Stacks & Tools
+### ⚒️ Stacks & Tools
 
-####  Backend
+#####  Backend
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 
 
-####  Database & Messaging
+#####  Database & Messaging
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Kafka](https://img.shields.io/badge/ApacheKafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 
-#### Cloud & DevOps
+##### Cloud & DevOps
 ![Naver Cloud](https://img.shields.io/badge/Naver_Cloud-03C75A?style=for-the-badge&logo=naver&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
-#### AI & ML
+##### AI & ML
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
