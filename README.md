@@ -3,7 +3,13 @@
   <img src="https://www.icegif.com/wp-content/uploads/2023/11/icegif-506.gif" alt="설명" width="100%"/>
 </p>
 
-
+<a href="https://www.gitanimals.org/en-US?utm_medium=image&utm_source=ssoree912&utm_content=farm">
+<img
+  src="https://render.gitanimals.org/farms/ssoree912"
+  width="600"
+  height="300"
+/>
+</a>
 
 ### 🧑‍💻 Experience
 
